@@ -1,4 +1,4 @@
-# XP-FARM-MEE6
+# XP-FARM
 Um simples self-bot para farmar xp.
 Feito em python
 
