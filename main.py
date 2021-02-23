@@ -14,7 +14,6 @@ print("Loading..")
 
 words = ['esse jogo é legal', 'nice client', 'alguem quer duo plat', '.', 'alguem pode me ajuda?', 'como assim', 'entendi', 'oi', 'obrigado', 'desculpa', 'sério?', 'pq eu n consigo entrar no lol?', 'ele morreu e falou: Eh o grongos', 'alguem pode me doar rp?', 'n consigo falar no chat do lol', 'pq eu ganhei pouco pdl?', 'não entendi', 'saquei', 'kkkkkkkkk', 'boa man', 'diga não aos discord modificados', 'impossivel jogar lol vei', 'pq n respondem?', 'sou eu', 'oq é gankar?', 'dsclp sou novo', 'kkkkkk (rindo de nervoser)', 'escutem K/DA galera', 'sério cara?', 'pq isso man? calma drill!', 'Oieee', 'Oi, meu nome é pedro sou ferro e éh isso', 'impossivel vey', 'hj n', 'yone mt op lek', 'eh de f3d3er', 'queue de ferro = pouco pdl', 'tá f0d4', 'algm duo?', 'fleex agr go', '#GOpaiN', '#GOFLA', '#GOKabuM!', 'é o grongos', 'só a cabecinha', 'só darius abuser nisso, credo.', 'darius tá mt forte cara', 'tinowns pernas de camille', '4lan mão fofa', 'só o básico hehe', 'cheio de tóxico no lol credo', 'jogar lol é frustante lek', 'bruh ;-;', 'carroça', 'tá tendo uns drop insano ultimamente hein', 'muito massa o teemo', 'é dahora de jogar de irelia man', 'cabei de feedar de yasuo kkk', 'aphelios é legal?']
 
-#   Count bot config
 counting_channel = 718190688356794418 #	ID do canal
 enabled = True
 last_number = 0
