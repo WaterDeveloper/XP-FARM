@@ -1,5 +1,5 @@
 # CONFIG
-token = "MjU4MDE1NTI3ODg3MzA2NzUz.YDRNeQ.eb053gTNhvtn01o-M5RFGMCSbYM" # Just google how to get discord token.
+token = "TOKEN" # Just google how to get discord token.
 prefix = "~"
 
 
